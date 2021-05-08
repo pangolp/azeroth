@@ -1,0 +1,18 @@
+{
+    "name": "pagan/azeroth",
+    "description": "This library first connects to the different World of Warcraft emulators.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pagani Walter",
+            "email": "paganiwalter@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pagan\\azeroth\\": "src/"
+        }
+    }
+}
